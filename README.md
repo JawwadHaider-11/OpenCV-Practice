@@ -7,3 +7,5 @@ An overview of each chapter is as follows:
 
 Chapter:1 (In this chapter i have covered some basics of opencv i.e: how to read images, videos and how to use a webcam).
 Chapter:2 (In this chapter i have practiced some basic opencv funtions for image i.e: gray image, blur image, canny image, dialated image, eroded image).
+Chapter:3 (In this chapter i have practiced resizing and croping of an image using opencv)
+Chapter:4 (In this chapter i have practiced adding shapes and text to an image using opencv)
