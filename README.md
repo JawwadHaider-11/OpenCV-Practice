@@ -14,3 +14,7 @@ Chapter:3 (In this chapter i have practiced resizing and croping of an image usi
 Chapter:4 (In this chapter i have practiced adding shapes and text to an image using opencv).
 
 Chapter:5 (In this cahpetr i have covered Warp Perspective using opencv)
+
+Chapter:6 (In this chspter i have practiced joining images using opencv)
+
+Chapter:7 (In this chapter i have practi cedd color detection and trackbars in opencv)
